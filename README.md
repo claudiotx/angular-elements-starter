@@ -17,6 +17,7 @@ b) bundled as framework-agnostic bundle able to be used anywhere
 
 Two main folders: `projects` and `src`.
 
+```
 ├── angular.json **workspace configuration, build configurations for each library in ./projects/**
 ├── package.json
 ├── projects/ **all libraries**
@@ -49,6 +50,7 @@ Two main folders: `projects` and `src`.
 │   ├── main.ts
 │   └── tsconfig.app.json
 └── tsconfig.json
+```
 
 ## Build Configurations (angular.json)
 
